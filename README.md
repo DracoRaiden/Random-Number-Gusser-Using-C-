@@ -1,2 +1,2 @@
 # Random-Number-Gusser-Using-C-
-During my journey through the Codsoft Internship, the first task I was assigned with was to make a Random Number Guesser Game using C++.
+During my journey through the Codsoft Internship, the first task I was assigned was to make a Random Number Guesser Game using C++. I used multiple if-else statements to identify if the user has found the number has guessed more than the number, or is still short on his guess. I implemented a counter to identify the number of guesses throughout the process—difficulty: Easy.
